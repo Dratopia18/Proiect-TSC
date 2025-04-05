@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-05T21:30:33Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Proiect TSC v74"
+        },
+        "Owner": "ANDREI-VLAD RACOLTA <andrei_vlad.racolta@stud.acs.upb.ro>",
+        "Size": {
+            "X": 169.197672,
+            "Y": 111.2
+        }
+    }
+}
