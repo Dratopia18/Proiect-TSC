@@ -2,8 +2,39 @@
 
 ![msedge_Ucl1mEEFf3](https://github.com/user-attachments/assets/82342bde-491b-4181-9ff9-e894b8f3599f)
 
-
-[bom-table.md](https://github.com/user-attachments/files/19619067/bom-table.md)
+| Nr. | Componentă | Descriere | Furnizor | Link Achiziție | Datasheet |
+|-----|------------|-----------|----------|----------------|-----------|
+| 1 | ESP32-C6-WROOM-1-N8 | Microcontroller ESP32-C6 cu WiFi 6 și Bluetooth 5 | Digikey | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/16162360 | https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf |
+| 2 | BME680 | Senzor integrat de mediu (temperatură, umiditate, presiune, gaz) | Digikey | https://www.digikey.com/en/products/detail/bosch-sensortec/BME680/6136306 | https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf |
+| 3 | SD0805S020S1R0 | Diodă Schottky Barrier | Mouser | https://www.mouser.com/ProductDetail/581-SD0805S020S1R0 | http://datasheets.avx.com/schottky.pdf |
+| 4 | CPH3225A | Condensator 0.011F 3.3V 1210 | Digikey | https://www.digikey.com/en/products/detail/murata-electronics/CPH3225A/563065 | https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf |
+| 5 | XC6220A331MR_G | Regulator de tensiune LDO | Digikey | https://www.digikey.com/en/products/detail/torex-semiconductor-ltd/XC6220A331MR-G/2138177 | https://www.torexsemi.com/file/xc6220/XC6220.pdf |
+| 6 | SI1308EDL_T1_GE3 | Tranzistor MOSFET N-Channel | Digikey | https://www.digikey.com/en/products/detail/vishay-siliconix/SI1308EDL-T1-GE3/1978613 | https://www.vishay.com/docs/68734/si1308edl.pdf |
+| 7 | CSR0402JTR470 | Rezistor 47 Ohm 0402 | Digikey | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CSR0402JTR470/6191784 | https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf |
+| 8 | KMS231GPLFS | Switch tactil | Mouser | https://www.mouser.com/ProductDetail/611-KMS231GPLFS | https://www.ckswitches.com/media/1464/kms.pdf |
+| 9 | PGB1010603MR | Diodă de protecție ESD | Digikey | https://www.digikey.com/en/products/detail/littelfuse-inc/PGB1010603MR/4309052 | https://www.littelfuse.com/~/media/electronics/datasheets/polymer_esd_suppressors/littelfuse_polymer_esd_suppressor_pgb_datasheet.pdf |
+| 10 | CC0805KKX7R9BB105 | Condensator ceramic 1μF 50V | Digikey | https://www.digikey.com/en/products/detail/yageo/CC0805KKX7R9BB105/2103149 | https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf |
+| 11 | C1206C105K5RAC | Condensator ceramic 1μF 50V 1206 | Mouser | https://www.mouser.com/ProductDetail/80-C1206C105K5R | https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf |
+| 12 | C0402C105Z9VACTU | Condensator ceramic 1μF 10V 0402 | Mouser | https://www.mouser.com/ProductDetail/80-C0402C105Z9VAC | https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_25.pdf |
+| 13 | TAJB107K010RNJ | Condensator tantalum 100μF 10V | Digikey | https://www.digikey.com/en/products/detail/kyocera-avx/TAJB107K010RNJ/1457473 | https://componentsearchengine.com/Datasheets/1/TAJB107K010RNJ.pdf |
+| 14 | C0402C475M9PACTU | Condensator ceramic 4.7μF 6.3V 0402 | Mouser | https://www.mouser.com/ProductDetail/80-C0402C475M9PAC | https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_Y5V_6.3V-to-50V_20.pdf |
+| 15 | DMG2305UX_7 | Tranzistor MOSFET P-Channel | Digikey | https://www.digikey.com/en/products/detail/diodes-incorporated/DMG2305UX-7/7355232 | https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf |
+| 16 | WCR0402-100KFA | Rezistor 100k Ohm 0402 | Mouser | https://www.mouser.com/ProductDetail/652-WCR0402-100KFA | https://www.welwyn-tt.com/wp-content/uploads/2020/07/Welwyn_WCR_Series_-_Issue_5_-_April_2020.pdf |
+| 17 | PFMF.050.2 | Siguranță PTC resetabilă | Mouser | https://www.mouser.com/ProductDetail/652-PFMF.050.2 | https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_pfmf_datasheet.pdf |
+| 18 | WE-TPC-4828 | Inductor de putere SMD | Digikey | https://www.digikey.com/en/products/detail/w-rth-elektronik/744043680/5352119 | https://www.we-online.com/components/products/datasheet/744043680.pdf |
+| 19 | 744043680 | Inductor de putere 68μH | Mouser | https://www.mouser.com/ProductDetail/710-744043680 | https://www.we-online.com/components/products/datasheet/744043680.pdf |
+| 20 | MBR0530T3G | Diodă Schottky 0.5A 30V | Mouser | https://www.mouser.com/ProductDetail/863-MBR0530T3G | https://www.onsemi.com/pdf/datasheet/mbr0530t1-d.pdf |
+| 21 | SM04B_SRSS_TB | Conector JST SH 4 pini SMD | Digikey | https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926710 | https://www.jst-mfg.com/product/pdf/eng/eSH.pdf |
+| 22 | MAX17048G_T10 | Monitor de baterie Li+ | Digikey | https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX17048G-T10/3125365 | https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf |
+| 23 | MCP73831T_2ACI_OT | Controller de încărcare Li-Ion/Li-Polymer | Digikey | https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/1979802 | https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf |
+| 24 | BD5229G-TR | Detector de tensiune cu timp de întârziere ajustabil | Digikey | https://www.digikey.com/en/products/detail/rohm-semiconductor/BD5229G-TR/10292239 | https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd52xxg-e.pdf |
+| 25 | DS3231SN# | RTC (Real Time Clock) Serial | Digikey | https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS3231SN/2747437 | https://datasheets.maximintegrated.com/en/ds/DS3231.pdf |
+| 26 | W25Q512JVEIQ | Memorie Flash SPI 512Mbit | Digikey | https://www.digikey.com/en/products/detail/winbond-electronics/W25Q512JVEIQ/6566669 | https://www.winbond.com/resource-files/w25q512jv%20revf%2010142020%20plus.pdf |
+| 27 | FH34SRJ-24S-0.5SH(99) | Conector FPC 24 pini | Mouser | https://www.mouser.com/ProductDetail/798-FH34SRJ24S05SH99 | https://www.hirose.com/product/document?clcode=CL0570-0597-0-00&productname=FH34SRJ-24S-0.5SH(99)&series=FH34&documenttype=Catalog&lang=en&documentid=D31688_en |
+| 28 | C0402C104K4RACTU | Condensator ceramic 0.1μF 16V 0402 | Digikey | https://www.digikey.com/en/products/detail/kyocera-avx/C0402C104K4RACTU/1120776 | https://ds.yuden.co.jp/TYCOMPAS/ut/download?pn=CC0402JRNPO9BN220&fileType=CA |
+| 29 | USBLC6-2SC6Y | Circuit de protecție ESD pentru USB | Digikey | https://www.digikey.com/en/products/detail/stmicroelectronics/USBLC6-2SC6Y/1040579 | https://www.st.com/resource/en/datasheet/usblc6-2.pdf |
+| 30 | USB4110-GF-A | Conector USB Type-C | Digikey | https://www.digikey.com/en/products/detail/gct/USB4110-GF-A/9859733 | https://gct.co/connector/usb4110 |
+| 31 | 112A-TAAR-R03 | Conector pentru antenă | Digikey | https://www.digikey.com/en/products/detail/linx-technologies-inc/112A-TAAR-R03/15351035 | https://linxtechnologies.com/wp/wp-content/uploads/112-series-data-sheet.pdf |
 
 Descrierea Funcționalității Hardware
 Modulul Microcontroller
