@@ -1,7 +1,10 @@
 # Proiect-TSC
 
+Diagrama Proiectului
 ![msedge_Ucl1mEEFf3](https://github.com/user-attachments/assets/82342bde-491b-4181-9ff9-e894b8f3599f)
 
+
+Tabela BOM a proiectului
 | Nr. | Componentă | Descriere | Furnizor | Link Achiziție | Datasheet |
 |-----|------------|-----------|----------|----------------|-----------|
 | 1 | ESP32-C6-WROOM-1-N8 | Microcontroller ESP32-C6 cu WiFi 6 și Bluetooth 5 | Digikey | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/16162360 | https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf |
