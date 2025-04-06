@@ -7,10 +7,10 @@ Diagrama Proiectului
 Tabela BOM a proiectului
 | Nr. | Componentă | Descriere | Furnizor | Link Achiziție | Datasheet |
 |-----|------------|-----------|----------|----------------|-----------|
-| 1 | ESP32-C6-WROOM-1-N8 | Microcontroller ESP32-C6 cu WiFi 6 și Bluetooth 5 | Digikey | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/17728866 | chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf |
-| 2 | BME680 | Senzor integrat de mediu (temperatură, umiditate, presiune, gaz) | Digikey | https://www.digikey.com/en/products/detail/bosch-sensortec/BME680/7401317 | chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf |
-| 3 | SD0805S020S1R0 | Diodă Schottky Barrier | Mouser | https://www.mouser.com/ProductDetail/581-SD0805S020S1R0 | http://datasheets.avx.com/schottky.pdf |
-| 4 | CPH3225A | Condensator 0.011F 3.3V 1210 | Digikey | https://www.digikey.com/en/products/detail/murata-electronics/CPH3225A/563065 | https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf |
+| 1 | ESP32-C6-WROOM-1-N8 | Microcontroller ESP32-C6 cu WiFi 6 și Bluetooth 5 | Digikey | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/17728866 | https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf |
+| 2 | BME680 | Senzor integrat de mediu (temperatură, umiditate, presiune, gaz) | Digikey | https://www.digikey.com/en/products/detail/bosch-sensortec/BME680/7401317 | https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf |
+| 3 | SD0805S020S1R0 | Diodă Schottky Barrier | Mouser | [https://www.mouser.com/ProductDetail/581-SD0805S020S1R0](https://ro.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D) | http://datasheets.avx.com/schottky.pdf |
+| 4 | CPH3225A | Condensator 0.011F 3.3V 1210 | Digikey | https://www.digikey.com/en/products/detail/murata-electronics/CPH3225A/8692444 | https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf |
 | 5 | XC6220A331MR_G | Regulator de tensiune LDO | Digikey | https://www.digikey.com/en/products/detail/torex-semiconductor-ltd/XC6220A331MR-G/2138177 | https://www.torexsemi.com/file/xc6220/XC6220.pdf |
 | 6 | SI1308EDL_T1_GE3 | Tranzistor MOSFET N-Channel | Digikey | https://www.digikey.com/en/products/detail/vishay-siliconix/SI1308EDL-T1-GE3/1978613 | https://www.vishay.com/docs/68734/si1308edl.pdf |
 | 7 | CSR0402JTR470 | Rezistor 47 Ohm 0402 | Digikey | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CSR0402JTR470/6191784 | https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf |
