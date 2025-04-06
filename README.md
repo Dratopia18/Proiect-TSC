@@ -7,7 +7,7 @@ Diagrama Proiectului
 Tabela BOM a proiectului
 | Nr. | Componentă | Descriere | Furnizor | Link Achiziție | Datasheet |
 |-----|------------|-----------|----------|----------------|-----------|
-| 1 | ESP32-C6-WROOM-1-N8 | Microcontroller ESP32-C6 cu WiFi 6 și Bluetooth 5 | Digikey | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/16162360 | https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf |
+| 1 | ESP32-C6-WROOM-1-N8 | Microcontroller ESP32-C6 cu WiFi 6 și Bluetooth 5 | Digikey | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/17728866 | [https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf](https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf) |
 | 2 | BME680 | Senzor integrat de mediu (temperatură, umiditate, presiune, gaz) | Digikey | https://www.digikey.com/en/products/detail/bosch-sensortec/BME680/6136306 | https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf |
 | 3 | SD0805S020S1R0 | Diodă Schottky Barrier | Mouser | https://www.mouser.com/ProductDetail/581-SD0805S020S1R0 | http://datasheets.avx.com/schottky.pdf |
 | 4 | CPH3225A | Condensator 0.011F 3.3V 1210 | Digikey | https://www.digikey.com/en/products/detail/murata-electronics/CPH3225A/563065 | https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf |
