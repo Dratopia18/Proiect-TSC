@@ -114,7 +114,6 @@ DS3231SN - un Real Time Clock (RTC) de înaltă precizie:
 * Backup cu baterie pentru păstrarea timpului când alimentarea principală este întreruptă
 
 
-
 ## Sistemul de Alimentare
 
 Încărcător de baterie Li-Ion/Li-Polymer:
@@ -133,7 +132,7 @@ Management Energie:
 
 
 Convertoare DC-DC:
-* Inductori de putere (744043680, WE-TPC-4828) pentru conversia eficientă a tensiunii
+* Inductori de putere (744043680) pentru conversia eficientă a tensiunii
 * Diode Schottky (SD0805S020S1R0, MBR0530T3G) pentru circuitele de comutație
 
 
@@ -261,42 +260,13 @@ Considerând o baterie Li-Po de 1200mAh:
 * În mod normal: ~29.9 ore
 * Cu ciclu de funcționare optimizat (10% mod normal, 90% mod sleep): ~8-10 zile
 
-## Specificații de Comunicație
-
-Interfața I2C:
-
-* Frecvență: 400kHz (Fast Mode)
-
-Adrese dispozitive:
-
-* BME680: 0x76 (sau 0x77)
-* DS3231: 0x68
-* MAX17048G: 0x36
-
-
-Interfața SPI:
-
-* Frecvență: până la 80MHz pentru memorie flash
-* Mode: 0 (CPOL=0, CPHA=0)
-* Comunicare Full-Duplex
-* Suport pentru transfer rapid de date în mod Quad SPI (pentru memoria flash)
-
-
-USB:
-
-* USB 2.0 Full Speed (12Mbps)
-* Configurat ca dispozitiv CDC (Communications Device Class)
-* Permite programare și debugging prin convertor USB-UART
-
-
-
 # Design PCB și Considerații Mecanice
 
 Dimensiuni PCB:
 
 * Dimensiuni totale: 80mm x 40mm
 * Grosime PCB: 1 mm
-* Straturi: 4 (Top, GND, Power, Bottom)
+* Straturi: 3 (Top, Dielectrical, Bottom)
 
 Considerații Termice:
 
